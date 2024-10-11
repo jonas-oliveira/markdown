@@ -35,3 +35,12 @@ Para mais informações consulte : [documentação oficial] (https://github.com/
 git clone https://github.com/usuario/repositorio.git
 cd nome-do-repositorio
 ```
+
+**Imagem local**: ![imagem do projeto local](./imagens/markdown-logo.png)
+
+**Imagem GitHub**: ![imagem do GitHub](https://github.com/jonas-oliveira/markdown/blob/main/imagens/markdown-logo.png?raw=true)
+
+## Imagem com HTML
+<img src="https://raw.github.com/jonas-oliveira/markdown/main/imagens/markdown-logo.png" alt="Imagem do Projeto" width = "190" height = "110">
+
+> Exemplo de como formatar imagem com HTML
